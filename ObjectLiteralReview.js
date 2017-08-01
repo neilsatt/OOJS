@@ -7,4 +7,6 @@ var person = {
 person.name; // Lauren
 person["name"]; // alternative notation
 
+/* QUIZ 1
+Keys are Strings - true
 
