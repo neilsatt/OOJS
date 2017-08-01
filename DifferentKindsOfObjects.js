@@ -25,6 +25,22 @@
     
 */
 
- // document is the object, getElement is the method
+// document is the object, getElement is the method
 var h1 = document.getElementById("header"); 
 h1.innerHTML = "JavaScript"; // innerHTML = content
+
+
+/* QUIZ
+State refers to the conditional of all values at a particular point in time.
+The document is available in the browser and is a HOST object.
+Values stored in objects are called properties.
+A string is a NATIVE object. 
+
+
+
+
+
+
+
+
+
